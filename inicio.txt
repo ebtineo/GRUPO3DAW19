@@ -1,0 +1,11 @@
+FICHERO DE INICIO DE DESARROLLO PRÁCTICA 3.
+GRUPO 3.
+El principio nos hemos puesto de acuerdo para la repartición del trabajo entre los 3 integrantes, a saber:
+- Eduardo Bracho Tineo.
+- Sergio Cabral Andrades.
+- Sergiy Ivancheskul.
+
+La repartición de la práctica ha sido la siguiente:
+- Integrante 1 (Eduardo).
+- Integrante 2 (Sergio).
+- Integrante 3 (Sergiy).

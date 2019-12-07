@@ -1,0 +1,14 @@
+- Integrantes:
+	Eduardo Bracho, Sergiy Ivancheskul y Sergio Cabral
+
+- Opiniones del grupo:
+
+Eduardo Bracho: En mi opinión este método de trabajo es bueno para poder sincronizarnos con
+los demás compañeros de trabajo y realizar los cambios y modificaciones de cada integrante de manera independiente.
+
+Sergio Cabral: Al principio costaba analizar la estructura y funciones del proyecto, pero al
+conseguir adaptarlo y entender cómo funciona el resultado merece la pena.
+
+Sergiy Ivancheskul: Un poco perdido al principio, no tenía claro que había que hacer y cómo
+repartirnos bien el trabajo, una vez repartidos y explicados entre nosotros empezamos a trabajar
+en el proyecto, git es una herramienta muy útil y practica a la hora de trabajar en equipo, aunque un poco complicada de entender al principio.

@@ -8,7 +8,7 @@
                   <td><input type="text" name="energia" value="<?php echo $params['energia']?>">(introducir únicamente números positivos)</td>
 							</tr>
 							<tr>
-									<td>nombre del alimento:</td>
+							<td>nombre del alimento:</td>
                   <td><input type="text" name="nombre" value="<?php echo $params['nombre']?>"></td>
 							</tr>
 							<tr>
