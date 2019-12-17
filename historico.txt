@@ -1,0 +1,8 @@
+El proyecto se ha dividido en 3 partes como indica el enunciado.
+Cada uno ha cumplido con su parte, pero nos hemos estado ayudado mutuamente para cumplir con los objetivos del proyecto alimentos32019.
+
+Eduardo(Integrante1): Se ha encargado de la parte de Repositorios, subidas de los archivos de la vista y Fron-end.
+
+Sergio(Integrante2): Se ha encargado de la parte de el Controlador(Index, Controller, Config) y despliegue del proyecto a CDMON.
+
+Sergiy(Integrante3):  Se ha encargado de la parte de el Modelo(Model), los SQLs, creación y conexión con la base de datos.
